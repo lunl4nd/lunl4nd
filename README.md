@@ -3,6 +3,7 @@
 I'm mainly interested in Web Design and Game development, as well as DataBase Management.
 
 -🎴 Currently studying a Technical Degree in Programming at UTN (Universidad Tecnológica Nacional)
+
 -💾 Learning C#, ASP.NET, Renpy, .NET framework (Windows Forms), SQL.
 
 ## My skills!
