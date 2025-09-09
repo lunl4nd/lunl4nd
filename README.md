@@ -11,7 +11,9 @@ I'm mainly interested in Web Design and Game development, as well as DataBase Ma
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
 ![SFML](https://img.shields.io/badge/SFML-2C3E50?style=flat&logo=code&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
 
