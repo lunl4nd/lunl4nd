@@ -4,7 +4,7 @@ I'm mainly interested in Web Design and Game development, as well as DataBase Ma
 
 -🎴 Currently studying a Technical Degree in Programming at UTN (Universidad Tecnológica Nacional)
 
--💾 Learning Java & SQL.
+-💾 Learning Java & SQL, as well as front-end in HTML.
 
 ## My skills!
 
