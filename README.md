@@ -1,6 +1,6 @@
 ## Hello! I'm Lun!
 
-I'm mainly interested in Web Design and Game development, as well as DataBase Management.
+I'm mainly interested in Web Design and DataBase Management.
 
 -🎴 Currently studying a Technical Degree in Programming at UTN (Universidad Tecnológica Nacional)
 
@@ -15,6 +15,10 @@ I'm mainly interested in Web Design and Game development, as well as DataBase Ma
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
 
 ## My languages!
